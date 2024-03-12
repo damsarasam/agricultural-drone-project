@@ -52,5 +52,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Azure Custom Vision: [Azure Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/)
-- Drone Hardware: [Drone Hardware](https://www.dji.com/)
-- Drone Software: [Drone Software](https://www.dronedeploy.com/)
+- Drone Hardware
+- Drone Software
